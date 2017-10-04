@@ -1,0 +1,403 @@
+#NEXUS
+[R-package APE, Thu Feb 11 12:13:51 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 195;
+	TAXLABELS
+		Castanea_mollissima_HQ336406
+		Castanopsis_echinocarpa_KJ001129
+		Quercus_rubra_JX970937
+		Trigonobalanus_doichangensis_KF990556
+		Nothofagus_moorei_KT716499
+		Cucumis_sativus_NC_007144
+		Corynocarpus_laevigata_HQ207704
+		Prunus_kansuensis_KF990036
+		Prinsepia_utilis_KC571835
+		Pentactina_rupicola_JQ041763
+		Pyrus_pyrifolia_NC_015996
+		Fragaria_chiloensis_JN884816
+		Morus_indica_DQ226511
+		Lathyrus_sativus_NC_014063
+		Pisum_sativum_NC_014057
+		Trifolium_subterraneum_EU849487
+		Cicer_arietinum_EU835853
+		Lotus_japonicus_AP002983
+		Phaseolus_vulgaris_NC_009259
+		Vigna_radiata_GQ893027
+		Glycine_canescens_KC893635
+		Millettia_pinnata_JN673818
+		Lupinus_luteus_KC695666
+		Manihot_esculenta_NC_010433
+		Hevea_brasiliensis_HQ285842
+		Ricinus_communis_JF937588
+		Jatropha_curcas_FJ695500
+		Populus_alba_AP008956
+		Sloanea_australis_KT716504
+		Ceratopetalum_apetalum_KT716495
+		Arabidopsis_thaliana_NC_000932
+		Pachycladon_cheesemanii_JQ806762
+		Brassica_napus_NC_016734
+		Arabis_alpina_HF934132
+		Carica_papaya_EU431223
+		Gossypium_hirsutum_DQ345959
+		Theobroma_cacao_HQ336404
+		Citrus_sinensis_DQ864733
+		Azadirachta_indica_KF986530
+		Sarcopteryx_stipata_KT716503
+		Corymbia_eximia_KC180802
+		Angophora_costata_KC180805
+		Eucalyptus_regnans_KC180777
+		Stockwellia_quadrifida_KC180807
+		Allosyncarpia_ternata_KC180806
+		Oenothera_argillicola_EU262887
+		California_macrophylla_JQ031013
+		Erodium_carvifolium_HQ713469
+		Geranium_palmatum_HM125537
+		Monsonia_speciosa_HM125538
+		Pelargonium_alternans_KF240617
+		Hypseocharis_bilobata_KF240616
+		Melianthus_villosus_NC_023256
+		Francoa_sonchifolia_JQ809470
+		Viviania_marifolia_KF240615
+		Sedum_sarmentosum_NC_023085
+		Penthorum_chinense_JX436155
+		Liquidambar_formosana_NC_023092
+		Vitis_vinifera_NC_007957
+		Eleutherococcus_senticosus_JN637765
+		Brassaiopsis_hainla_KC456164
+		Metapanax_delavayi_KC456165
+		Kalopanax_septemlobus_KC456167
+		Schefflera_delavayi_KC456166
+		Aralia_undulata_KC456163
+		Panax_ginseng_AY582139
+		Daucus_carota_DQ898156
+		Anthriscus_cerefolium_GU456628
+		Pennantia_cunninghamii_KT716501
+		Quintinia_verdonii_KT716502
+		Praxelis_clematidea_KF922320
+		Ageratina_adenophora_JF826503
+		Guizotia_abyssinica_EU549769
+		Helianthus_annuus_NC_007977
+		Parthenium_argentatum_NC_013553
+		Artemisia_frigida_JX293720
+		Chrysanthemum_indicum_JN867592
+		Jacobaea_vulgaris_HQ234669
+		Lactuca_sativa_AP007232
+		Trachelium_caeruleum_EU090187
+		Salvia_miltiorrhiza_JX312195
+		Origanum_vulgare_subsp_vulgare_JX880022
+		Tectona_grandis_HF567869
+		Ajuga_reptans_KF709391
+		Pinguicula_ehlersiae_HG803178
+		Utricularia_gibba_KC997777
+		Andrographis_paniculata_KF150644
+		Sesamum_indicum_JN637766
+		Boea_hygrometrica_JN107811
+		Olea_europaea_subsp_europaea_FN997650
+		Jasminum_nudiflorum_DQ673255
+		Solanum_lycopersicum_DQ347959
+		Capsicum_annuum_JX270811
+		Datura_stramonium_JN662489
+		Nicotiana_tabacum_Z00044
+		Ipomoea_purpurea_EU118126
+		Catharanthus_roseus_KC561139
+		Asclepias_nivea_KF539844
+		Coffea_arabica_EF044213
+		Ehretia_acuminata_KT716497
+		Vaccinium_macrocarpon_JQ248601
+		Arbutus_unedo_JQ067650
+		Camellia_sinensis_KC143082
+		Ardisia_polysticta_KC465962
+		Silene_conica_NC_016729
+		Agrostemma_githago_KF527884
+		Fagopyrum_esculentum_subsp_ancestrale_EU254477
+		Buxus_microphylla_NC_009599
+		Trochodendron_aralioides_KC608753
+		Tetracentron_sinense_NC_021425
+		Platanus_occidentalis_NC_008335
+		Orites_excelsus_KT716500
+		Nelumbo_lutea_FJ754269
+		Berberis_bealei_NC_022457
+		Nandina_domestica_DQ923117
+		Megaleranthis_saniculifolia_FJ597983
+		Ranunculus_macranthus_NC_008796
+		Ceratophyllum_demersum_EF614270
+		Festuca_altissima_JX871939
+		Lolium_multiflorum_JX871942
+		Deschampsia_antarctica_KF887484
+		Agrostis_stolonifera_EF115543
+		Triticum_monococcum_KC912690
+		Aegilops_cylindrica_KF534489
+		Secale_cereale_KC912691
+		Hordeum_vulgare_NC_008590
+		Brachypodium_distachyon_EU325680
+		Indocalamus_longiauritus_HQ337795
+		Phyllostachys_edulis_HQ337796
+		Arundinaria_appalachiana_KC817462
+		Acidosasa_purpurea_HQ337793
+		Ferrocalamus_rimosivaginus_HQ337794
+		Bambusa_emeiensis_HQ337797
+		Dendrocalamus_latiflorus_FJ970916
+		Oryza_rufipogon_JN005832
+		Leersia_tisserantii_JN415112
+		Rhynchoryza_subulata_JN415114
+		Saccharum_hybrid_cultivar_NCo_310_NC_006084
+		Sorghum_bicolor_EF115542
+		Coix_lacryma_jobi_FJ261955
+		Setaria_italica_KF646538
+		Panicum_virgatum_HQ822121
+		Phragmites_australis_KF730315
+		Puelia_olyriformis_KC534841
+		Pharus_lappulaceus_KC311467
+		Anomochloa_marantoidea_GQ329703
+		Typha_latifolia_GU195652
+		Zingiber_spectabile_JX088661
+		Curcuma_roscoeana_KF601574
+		Ravenala_madagascariensis_KF601568
+		Heliconia_collinsiana_JX088660
+		Musa_textilis_KF601567
+		Dasypogon_bromeliifolius_JX088665
+		Elaeis_guineensis_JF274081
+		Cocos_nucifera_KF285453
+		Pseudophoenix_vinifera_JX088662
+		Phoenix_dactylifera_GU811709
+		Bismarckia_nobilis_JX088664
+		Calamus_caryotoides_JX088663
+		Oncidium_hybrid_cultivar_GQ324949
+		Erycina_pusilla_JF746994
+		Cymbidium_aloifolium_KC876122
+		Corallorhiza_striata_var_vreelandii_JX087681
+		Phalaenopsis_equestris_JF719062
+		Dendrobium_officinale_KC771275
+		Lilium_longiflorum_KC968977
+		Fritillaria_taipaiensis_NC_023247
+		Smilax_china_HM536959
+		Alstroemeria_aurea_KC968976
+		Veratrum_patulum_KF437397
+		Dioscorea_elephantipes_EF380353
+		Petrosavia_stellaris_KF482381
+		Lemna_minor_DQ400350
+		Wolffia_australiana_NC_015899
+		Spirodela_polyrhiza_JN160603
+		Colocasia_esculenta_NC_016753
+		Elodea_canadensis_JQ310743
+		Najas_flexilis_JX978472
+		Acorus_americanus_NC_010093
+		Wilkiea_huegeliana_KT716505
+		Cinnamomum_oliveri_KT716496
+		Calycanthus_floridus_var_glaucus_NC_004993
+		Magnolia_cathcartii_NC_023234
+		Liriodendron_tulipifera_NC_008326
+		Eupomatia_laurina_KT716498
+		Piper_cenocladum_DQ887677
+		Drimys_granadensis_DQ887676
+		Chloranthus_spicatus_NC_009598
+		Illicium_oligandrum_NC_009600
+		Nymphaea_alba_AJ627251
+		Nuphar_advena_DQ354691
+		Trithuria_inconspicua_HE963749
+		Amborella_trichopoda_NC_005086
+		Ginkgo_biloba_JN867578
+		Cycas_taitungensis_AP009339
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Castanea_mollissima_HQ336406,
+		2	Castanopsis_echinocarpa_KJ001129,
+		3	Quercus_rubra_JX970937,
+		4	Trigonobalanus_doichangensis_KF990556,
+		5	Nothofagus_moorei_KT716499,
+		6	Cucumis_sativus_NC_007144,
+		7	Corynocarpus_laevigata_HQ207704,
+		8	Prunus_kansuensis_KF990036,
+		9	Prinsepia_utilis_KC571835,
+		10	Pentactina_rupicola_JQ041763,
+		11	Pyrus_pyrifolia_NC_015996,
+		12	Fragaria_chiloensis_JN884816,
+		13	Morus_indica_DQ226511,
+		14	Lathyrus_sativus_NC_014063,
+		15	Pisum_sativum_NC_014057,
+		16	Trifolium_subterraneum_EU849487,
+		17	Cicer_arietinum_EU835853,
+		18	Lotus_japonicus_AP002983,
+		19	Phaseolus_vulgaris_NC_009259,
+		20	Vigna_radiata_GQ893027,
+		21	Glycine_canescens_KC893635,
+		22	Millettia_pinnata_JN673818,
+		23	Lupinus_luteus_KC695666,
+		24	Manihot_esculenta_NC_010433,
+		25	Hevea_brasiliensis_HQ285842,
+		26	Ricinus_communis_JF937588,
+		27	Jatropha_curcas_FJ695500,
+		28	Populus_alba_AP008956,
+		29	Sloanea_australis_KT716504,
+		30	Ceratopetalum_apetalum_KT716495,
+		31	Arabidopsis_thaliana_NC_000932,
+		32	Pachycladon_cheesemanii_JQ806762,
+		33	Brassica_napus_NC_016734,
+		34	Arabis_alpina_HF934132,
+		35	Carica_papaya_EU431223,
+		36	Gossypium_hirsutum_DQ345959,
+		37	Theobroma_cacao_HQ336404,
+		38	Citrus_sinensis_DQ864733,
+		39	Azadirachta_indica_KF986530,
+		40	Sarcopteryx_stipata_KT716503,
+		41	Corymbia_eximia_KC180802,
+		42	Angophora_costata_KC180805,
+		43	Eucalyptus_regnans_KC180777,
+		44	Stockwellia_quadrifida_KC180807,
+		45	Allosyncarpia_ternata_KC180806,
+		46	Oenothera_argillicola_EU262887,
+		47	California_macrophylla_JQ031013,
+		48	Erodium_carvifolium_HQ713469,
+		49	Geranium_palmatum_HM125537,
+		50	Monsonia_speciosa_HM125538,
+		51	Pelargonium_alternans_KF240617,
+		52	Hypseocharis_bilobata_KF240616,
+		53	Melianthus_villosus_NC_023256,
+		54	Francoa_sonchifolia_JQ809470,
+		55	Viviania_marifolia_KF240615,
+		56	Sedum_sarmentosum_NC_023085,
+		57	Penthorum_chinense_JX436155,
+		58	Liquidambar_formosana_NC_023092,
+		59	Vitis_vinifera_NC_007957,
+		60	Eleutherococcus_senticosus_JN637765,
+		61	Brassaiopsis_hainla_KC456164,
+		62	Metapanax_delavayi_KC456165,
+		63	Kalopanax_septemlobus_KC456167,
+		64	Schefflera_delavayi_KC456166,
+		65	Aralia_undulata_KC456163,
+		66	Panax_ginseng_AY582139,
+		67	Daucus_carota_DQ898156,
+		68	Anthriscus_cerefolium_GU456628,
+		69	Pennantia_cunninghamii_KT716501,
+		70	Quintinia_verdonii_KT716502,
+		71	Praxelis_clematidea_KF922320,
+		72	Ageratina_adenophora_JF826503,
+		73	Guizotia_abyssinica_EU549769,
+		74	Helianthus_annuus_NC_007977,
+		75	Parthenium_argentatum_NC_013553,
+		76	Artemisia_frigida_JX293720,
+		77	Chrysanthemum_indicum_JN867592,
+		78	Jacobaea_vulgaris_HQ234669,
+		79	Lactuca_sativa_AP007232,
+		80	Trachelium_caeruleum_EU090187,
+		81	Salvia_miltiorrhiza_JX312195,
+		82	Origanum_vulgare_subsp_vulgare_JX880022,
+		83	Tectona_grandis_HF567869,
+		84	Ajuga_reptans_KF709391,
+		85	Pinguicula_ehlersiae_HG803178,
+		86	Utricularia_gibba_KC997777,
+		87	Andrographis_paniculata_KF150644,
+		88	Sesamum_indicum_JN637766,
+		89	Boea_hygrometrica_JN107811,
+		90	Olea_europaea_subsp_europaea_FN997650,
+		91	Jasminum_nudiflorum_DQ673255,
+		92	Solanum_lycopersicum_DQ347959,
+		93	Capsicum_annuum_JX270811,
+		94	Datura_stramonium_JN662489,
+		95	Nicotiana_tabacum_Z00044,
+		96	Ipomoea_purpurea_EU118126,
+		97	Catharanthus_roseus_KC561139,
+		98	Asclepias_nivea_KF539844,
+		99	Coffea_arabica_EF044213,
+		100	Ehretia_acuminata_KT716497,
+		101	Vaccinium_macrocarpon_JQ248601,
+		102	Arbutus_unedo_JQ067650,
+		103	Camellia_sinensis_KC143082,
+		104	Ardisia_polysticta_KC465962,
+		105	Silene_conica_NC_016729,
+		106	Agrostemma_githago_KF527884,
+		107	Fagopyrum_esculentum_subsp_ancestrale_EU254477,
+		108	Buxus_microphylla_NC_009599,
+		109	Trochodendron_aralioides_KC608753,
+		110	Tetracentron_sinense_NC_021425,
+		111	Platanus_occidentalis_NC_008335,
+		112	Orites_excelsus_KT716500,
+		113	Nelumbo_lutea_FJ754269,
+		114	Berberis_bealei_NC_022457,
+		115	Nandina_domestica_DQ923117,
+		116	Megaleranthis_saniculifolia_FJ597983,
+		117	Ranunculus_macranthus_NC_008796,
+		118	Ceratophyllum_demersum_EF614270,
+		119	Festuca_altissima_JX871939,
+		120	Lolium_multiflorum_JX871942,
+		121	Deschampsia_antarctica_KF887484,
+		122	Agrostis_stolonifera_EF115543,
+		123	Triticum_monococcum_KC912690,
+		124	Aegilops_cylindrica_KF534489,
+		125	Secale_cereale_KC912691,
+		126	Hordeum_vulgare_NC_008590,
+		127	Brachypodium_distachyon_EU325680,
+		128	Indocalamus_longiauritus_HQ337795,
+		129	Phyllostachys_edulis_HQ337796,
+		130	Arundinaria_appalachiana_KC817462,
+		131	Acidosasa_purpurea_HQ337793,
+		132	Ferrocalamus_rimosivaginus_HQ337794,
+		133	Bambusa_emeiensis_HQ337797,
+		134	Dendrocalamus_latiflorus_FJ970916,
+		135	Oryza_rufipogon_JN005832,
+		136	Leersia_tisserantii_JN415112,
+		137	Rhynchoryza_subulata_JN415114,
+		138	Saccharum_hybrid_cultivar_NCo_310_NC_006084,
+		139	Sorghum_bicolor_EF115542,
+		140	Coix_lacryma_jobi_FJ261955,
+		141	Setaria_italica_KF646538,
+		142	Panicum_virgatum_HQ822121,
+		143	Phragmites_australis_KF730315,
+		144	Puelia_olyriformis_KC534841,
+		145	Pharus_lappulaceus_KC311467,
+		146	Anomochloa_marantoidea_GQ329703,
+		147	Typha_latifolia_GU195652,
+		148	Zingiber_spectabile_JX088661,
+		149	Curcuma_roscoeana_KF601574,
+		150	Ravenala_madagascariensis_KF601568,
+		151	Heliconia_collinsiana_JX088660,
+		152	Musa_textilis_KF601567,
+		153	Dasypogon_bromeliifolius_JX088665,
+		154	Elaeis_guineensis_JF274081,
+		155	Cocos_nucifera_KF285453,
+		156	Pseudophoenix_vinifera_JX088662,
+		157	Phoenix_dactylifera_GU811709,
+		158	Bismarckia_nobilis_JX088664,
+		159	Calamus_caryotoides_JX088663,
+		160	Oncidium_hybrid_cultivar_GQ324949,
+		161	Erycina_pusilla_JF746994,
+		162	Cymbidium_aloifolium_KC876122,
+		163	Corallorhiza_striata_var_vreelandii_JX087681,
+		164	Phalaenopsis_equestris_JF719062,
+		165	Dendrobium_officinale_KC771275,
+		166	Lilium_longiflorum_KC968977,
+		167	Fritillaria_taipaiensis_NC_023247,
+		168	Smilax_china_HM536959,
+		169	Alstroemeria_aurea_KC968976,
+		170	Veratrum_patulum_KF437397,
+		171	Dioscorea_elephantipes_EF380353,
+		172	Petrosavia_stellaris_KF482381,
+		173	Lemna_minor_DQ400350,
+		174	Wolffia_australiana_NC_015899,
+		175	Spirodela_polyrhiza_JN160603,
+		176	Colocasia_esculenta_NC_016753,
+		177	Elodea_canadensis_JQ310743,
+		178	Najas_flexilis_JX978472,
+		179	Acorus_americanus_NC_010093,
+		180	Wilkiea_huegeliana_KT716505,
+		181	Cinnamomum_oliveri_KT716496,
+		182	Calycanthus_floridus_var_glaucus_NC_004993,
+		183	Magnolia_cathcartii_NC_023234,
+		184	Liriodendron_tulipifera_NC_008326,
+		185	Eupomatia_laurina_KT716498,
+		186	Piper_cenocladum_DQ887677,
+		187	Drimys_granadensis_DQ887676,
+		188	Chloranthus_spicatus_NC_009598,
+		189	Illicium_oligandrum_NC_009600,
+		190	Nymphaea_alba_AJ627251,
+		191	Nuphar_advena_DQ354691,
+		192	Trithuria_inconspicua_HE963749,
+		193	Amborella_trichopoda_NC_005086,
+		194	Ginkgo_biloba_JN867578,
+		195	Cycas_taitungensis_AP009339
+	;
+	TREE * UNTITLED = [&R] ((((((((((((((((((((((1:0.001960553593,2:0.001679921084)[&label=100]:0.0005482135965,3:0.002389655009)[&label=100]:0.0008730214421,4:0.008763427009)[&label=100]:0.04930274727,5:0.04028191796)[&label=100]:0.01265750098,(6:0.01840116975,7:0.06111189776)[&label=100]:0.02145703335)[&label=99]:0.001621166574,((((8:0.01558701712,9:0.01918424287)[&label=18]:0.0005274728232,(10:0.02879751561,11:0.0152820741)[&label=47]:0.0009743358493)[&label=100]:0.007216285283,12:0.04412540796)[&label=100]:0.01749040954,13:0.04962493826)[&label=100]:0.01184458296)[&label=81]:0.0009551500228,((((((14:0.02676942082,15:0.01824643617)[&label=100]:0.0236568331,16:0.03552401786)[&label=100]:0.009196649422,17:0.03358854098)[&label=100]:0.03082045062,18:0.06484660605)[&label=100]:0.01010356313,(((19:0.01585924974,20:0.01605294714)[&label=100]:0.02951984972,21:0.01882747035)[&label=100]:0.03210952437,22:0.04379886083)[&label=100]:0.02066097795)[&label=100]:0.00631555655,23:0.05134597124)[&label=100]:0.05178104434)[&label=100]:0.006655999643,(((((24:0.008166898198,25:0.007708070552)[&label=100]:0.01126224213,26:0.02519665644)[&label=7]:0.0008086003015,27:0.02777894517)[&label=100]:0.01806762637,28:0.04837096503)[&label=100]:0.02217711862,(29:0.01249464033,30:0.01430645479)[&label=100]:0.02031447531)[&label=100]:0.005827576674)[&label=100]:0.004018249702,((((((((31:0.02289582672,32:0.03704498839)[&label=100]:0.003457650614,33:0.04376569813)[&label=100]:0.01821416715,34:0.07668066708)[&label=100]:0.02258495553,35:0.07252118203)[&label=100]:0.02262850245,36:0.0515049953)[&label=100]:0.05133701154,((37:0.02249576697,38:0.01072986496)[&label=100]:0.01326372042,39:0.104439842)[&label=100]:0.01176457988)[&label=100]:0.003775330443,((((40:0.001073993621,41:0.0008280050661)[&label=100]:0.003152209891,42:0.004619721885)[&label=100]:0.001559102483,(43:0.003778043242,44:0.004002244666)[&label=100]:0.003035750311)[&label=100]:0.02308765582,45:0.07670572053)[&label=100]:0.02282867493)[&label=88]:0.0007758636533,(((((46:0.01751598808,47:0.01889218248)[&label=100]:0.002873333675,(48:0.003686023385,49:0.01180473773)[&label=100]:0.00558653432)[&label=100]:0.07470555832,50:0.02555956955)[&label=100]:0.01688528275,(51:0.02209235199,52:0.00770177103)[&label=100]:0.0318646933)[&label=100]:0.006582001889,((53:0.02299884273,54:0.04334376919)[&label=100]:0.01053515398,55:0.04130417045)[&label=100]:0.02340339923)[&label=100]:0.00809742271)[&label=100]:0.002434081483)[&label=100]:0.008986846653,(((56:0.1087619387,57:0.02659871013)[&label=100]:0.01161682089,58:0.02112175425)[&label=100]:0.005968500841,59:0.03786971969)[&label=72]:0.0005064317523)[&label=100]:0.002001794422,(((((((((((60:0.001752168186,61:0.002644736218)[&label=93]:0.0001324406343,(62:0.002164562992,63:0.002863696608)[&label=94]:0.0002274486464)[&label=100]:0.0006054364429,64:0.002757659363)[&label=100]:0.000890267843,(65:0.004990126356,66:0.00449028604)[&label=100]:0.001968530492)[&label=100]:0.01033836327,(67:0.01264046095,68:0.01212657808)[&label=100]:0.03356813345)[&label=100]:0.012810533,69:0.01591166565)[&label=100]:0.003381207075,70:0.01927831113)[&label=100]:0.001079258901,((((((71:0.01032354727,72:0.01135949263)[&label=76]:0.0007825600046,73:0.006154326312)[&label=41]:0.0001015209764,(74:0.005640227506,75:0.007988129807)[&label=100]:0.002178706554)[&label=100]:0.00657201622,((76:0.002058051987,77:0.001419473196)[&label=100]:0.01861624555,78:0.01958800615)[&label=44]:0.001143220237)[&label=100]:0.00218232443,79:0.01428301921)[&label=100]:0.03821185983,80:0.09217642565)[&label=100]:0.01180310235)[&label=100]:0.007300754745,(((((((81:0.01275789916,82:0.01533027363)[&label=100]:0.02571360385,(83:0.01260242158,84:0.02951007798)[&label=85]:0.001275756204)[&label=100]:0.007838198639,(((85:0.02252692804,86:0.07299731139)[&label=100]:0.02310138137,87:0.05733648789)[&label=82]:0.001673153349,88:0.01236627183)[&label=88]:0.0005337870855)[&label=100]:0.003928482931,89:0.04654627056)[&label=100]:0.01199429375,(90:0.006987371931,91:0.04796323753)[&label=100]:0.009532803666)[&label=100]:0.01631450302,(((((92:0.01269541955,93:0.008744333106)[&label=100]:0.0006498839187,94:0.008362500062)[&label=100]:0.002718695789,95:0.005103961223)[&label=100]:0.02581553449,96:0.06998602175)[&label=100]:0.01179131461,((97:0.02079293119,98:0.04669330931)[&label=100]:0.0201137581,99:0.04541650177)[&label=100]:0.0151462615)[&label=59]:0.0008339735191)[&label=68]:0.0008084896217,100:0.02793358773)[&label=100]:0.0138635205)[&label=100]:0.005811281365,(((101:0.0580181097,102:0.02466779172)[&label=100]:0.02666075228,103:0.01917182755)[&label=100]:0.002071094068,104:0.05899845851)[&label=100]:0.01822001885)[&label=100]:0.01289556092,((105:0.02173889327,106:0.0319562455)[&label=100]:0.07815839925,107:0.09079445515)[&label=100]:0.02594770187)[&label=100]:0.004317191724)[&label=100]:0.02165528316,108:0.03647217684)[&label=78]:0.001167347551,(109:0.006250555419,110:0.007172113618)[&label=100]:0.01745331697)[&label=100]:0.004298913811,((111:0.03811833981,112:0.02235807469)[&label=100]:0.006767557607,113:0.02776086458)[&label=100]:0.003466737274)[&label=100]:0.002597616898,((114:0.05292947728,115:0.02334365702)[&label=100]:0.01631625892,(116:0.05770157683,117:0.02055352699)[&label=100]:0.02259226857)[&label=100]:0.01873110445)[&label=100]:0.01767847323,118:0.08259832937)[&label=60]:0.001996269684,((((((((((((((((((((119:0.001265797845,120:0.001009488808)[&label=100]:0.001170233302,121:0.002307438839)[&label=100]:0.002626714774,122:0.009609756198)[&label=100]:0.01135472269,(((123:0.00870905217,124:0.002718240933)[&label=100]:0.003830080195,125:0.00675486698)[&label=100]:0.006907545899,126:0.0129862051)[&label=100]:0.004253533247)[&label=100]:0.004278466575,127:0.02467017531)[&label=100]:0.0146010898,((((128:0.0003422330403,129:0.0005179263509)[&label=100]:0.0007198691492,(130:0.0007868372964,131:0.001033001461)[&label=100]:0.0001901337782)[&label=70]:0.0001276872343,132:0.001813711648)[&label=100]:0.005266749487,(133:0.001741714095,134:0.0008964689572)[&label=100]:0.0052884026)[&label=100]:0.002703443005)[&label=100]:0.001347677096,((135:0.009680628754,136:0.01291131787)[&label=100]:0.005449224154,137:0.007699106895)[&label=100]:0.01335836782)[&label=100]:0.001446428117,((((138:0.002683387194,139:0.001135457784)[&label=99]:0.0007383021233,140:0.004092757109)[&label=100]:0.009878972995,(141:0.007641572671,142:0.005860583768)[&label=100]:0.00357922)[&label=100]:0.007509444386,143:0.007751469245)[&label=100]:0.01178693137)[&label=100]:0.002583967332,144:0.007386036722)[&label=100]:0.01535974801,145:0.01730832856)[&label=100]:0.006016077416,146:0.03642564415)[&label=100]:0.09423302233,147:0.02812820644)[&label=100]:0.01453468416,((((148:0.003338065473,149:0.005967493144)[&label=100]:0.04688956502,150:0.02204075826)[&label=81]:0.001076295727,151:0.008846622331)[&label=77]:0.0007111096337,152:0.01703830448)[&label=100]:0.0213316846)[&label=98]:0.001641356406,(((((153:0.001635398122,154:0.003292413723)[&label=100]:0.00190628251,155:0.004930473734)[&label=100]:0.000907148732,(156:0.006347693146,157:0.005041980271)[&label=100]:0.0008335154748)[&label=100]:0.003454978097,158:0.010773)[&label=100]:0.01881545787,159:0.04061609657)[&label=47]:0.001041313193)[&label=100]:0.0049419786,(((((160:0.02341374221,161:0.004566380608)[&label=100]:0.0127511058,162:0.0191948015)[&label=100]:0.003221355671,163:0.02937761852)[&label=53]:0.000624764597,164:0.02313974921)[&label=82]:0.00172610854,165:0.00906229663)[&label=100]:0.06348199084)[&label=99]:0.001935162828,((((166:0.007587555222,167:0.004468990947)[&label=100]:0.03634695979,168:0.0350658946)[&label=100]:0.01365476551,169:0.05399494366)[&label=20]:0.001501732251,170:0.06234027102)[&label=100]:0.01038831549)[&label=59]:0.001386722611,171:0.06254433458)[&label=100]:0.004075787659,172:0.04416091415)[&label=100]:0.008746381737,((((173:0.04515803705,174:0.02391901444)[&label=100]:0.01342295931,175:0.01286059655)[&label=100]:0.03298436105,176:0.02157424252)[&label=100]:0.03792134245,(177:0.1371703108,178:0.03656778756)[&label=100]:0.05167058381)[&label=100]:0.01258843293)[&label=100]:0.01209030393,179:0.06827028057)[&label=100]:0.01364764874)[&label=80]:0.0007056927806,(((((180:0.02404907529,181:0.01433684869)[&label=100]:0.006110813188,182:0.03292827624)[&label=100]:0.0110735689,((183:0.007261770218,184:0.007302871064)[&label=100]:0.005415786953,185:0.02254286099)[&label=100]:0.007798486392)[&label=100]:0.002481877696,(186:0.1127152359,187:0.03010325683)[&label=100]:0.00466615656)[&label=100]:0.004212646058,188:0.03808056309)[&label=73]:0.0008217288193)[&label=100]:0.01345803289,189:0.04224464023)[&label=100]:0.009808814865,((190:0.008406375828,191:0.01664615167)[&label=100]:0.02749724876,192:0.1407770939)[&label=100]:0.02915492669)[&label=100]:0.008311970424,193:0.05983394326)[&label=100]:0.1047018031,(194:0.0711772998,195:0.07430310481)[&label=100]:0.1047018031);
+END;

@@ -1,0 +1,287 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=195;
+	taxlabels
+	Amborella_trichopoda_NC_005086
+	Nymphaea_alba_AJ627251
+	Nuphar_advena_DQ354691
+	Trithuria_inconspicua_HE963749
+	Illicium_oligandrum_NC_009600
+	Chloranthus_spicatus_NC_009598
+	Cinnamomum_oliveri_KT716496
+	Wilkiea_huegeliana_KT716505
+	Calycanthus_floridus_var_glaucus_NC_004993
+	Eupomatia_laurina_KT716498
+	Liriodendron_tulipifera_NC_008326
+	Magnolia_cathcartii_NC_023234
+	Piper_cenocladum_DQ887677
+	Drimys_granadensis_DQ887676
+	Acorus_americanus_NC_010093
+	Colocasia_esculenta_NC_016753
+	Spirodela_polyrhiza_JN160603
+	Wolffia_australiana_NC_015899
+	Lemna_minor_DQ400350
+	Elodea_canadensis_JQ310743
+	Najas_flexilis_JX978472
+	Petrosavia_stellaris_KF482381
+	Dioscorea_elephantipes_EF380353
+	Veratrum_patulum_KF437397
+	Alstroemeria_aurea_KC968976
+	Smilax_china_HM536959
+	Lilium_longiflorum_KC968977
+	Fritillaria_taipaiensis_NC_023247
+	Cymbidium_aloifolium_KC876122
+	Oncidium_hybrid_cultivar_GQ324949
+	Erycina_pusilla_JF746994
+	Phalaenopsis_equestris_JF719062
+	Corallorhiza_striata_var_vreelandii_JX087681
+	Dendrobium_officinale_KC771275
+	Pseudophoenix_vinifera_JX088662
+	Cocos_nucifera_KF285453
+	Elaeis_guineensis_JF274081
+	Bismarckia_nobilis_JX088664
+	Phoenix_dactylifera_GU811709
+	Calamus_caryotoides_JX088663
+	Anomochloa_marantoidea_GQ329703
+	Pharus_lappulaceus_KC311467
+	Puelia_olyriformis_KC534841
+	Phragmites_australis_KF730315
+	Panicum_virgatum_HQ822121
+	Setaria_italica_KF646538
+	Coix_lacryma_jobi_FJ261955
+	Sorghum_bicolor_EF115542
+	Saccharum_hybrid_cultivar_NCo_310_NC_006084
+	Rhynchoryza_subulata_JN415114
+	Oryza_rufipogon_JN005832
+	Leersia_tisserantii_JN415112
+	Brachypodium_distachyon_EU325680
+	Hordeum_vulgare_NC_008590
+	Secale_cereale_KC912691
+	Aegilops_cylindrica_KF534489
+	Triticum_monococcum_KC912690
+	Agrostis_stolonifera_EF115543
+	Deschampsia_antarctica_KF887484
+	Lolium_multiflorum_JX871942
+	Festuca_altissima_JX871939
+	Dendrocalamus_latiflorus_FJ970916
+	Bambusa_emeiensis_HQ337797
+	Ferrocalamus_rimosivaginus_HQ337794
+	Acidosasa_purpurea_HQ337793
+	Arundinaria_appalachiana_KC817462
+	Indocalamus_longiauritus_HQ337795
+	Phyllostachys_edulis_HQ337796
+	Typha_latifolia_GU195652
+	Musa_textilis_KF601567
+	Ravenala_madagascariensis_KF601568
+	Curcuma_roscoeana_KF601574
+	Zingiber_spectabile_JX088661
+	Heliconia_collinsiana_JX088660
+	Dasypogon_bromeliifolius_JX088665
+	Ceratophyllum_demersum_EF614270
+	Megaleranthis_saniculifolia_FJ597983
+	Ranunculus_macranthus_NC_008796
+	Nandina_domestica_DQ923117
+	Berberis_bealei_NC_022457
+	Nelumbo_lutea_FJ754269
+	Platanus_occidentalis_NC_008335
+	Orites_excelsus_KT716500
+	Trochodendron_aralioides_KC608753
+	Tetracentron_sinense_NC_021425
+	Buxus_microphylla_NC_009599
+	Ceratopetalum_apetalum_KT716495
+	Sloanea_australis_KT716504
+	Populus_alba_AP008956
+	Jatropha_curcas_FJ695500
+	Manihot_esculenta_NC_010433
+	Hevea_brasiliensis_HQ285842
+	Ricinus_communis_JF937588
+	Nothofagus_moorei_KT716499
+	Castanea_mollissima_HQ336406
+	Castanopsis_echinocarpa_KJ001129
+	Quercus_rubra_JX970937
+	Trigonobalanus_doichangensis_KF990556
+	Cucumis_sativus_NC_007144
+	Corynocarpus_laevigata_HQ207704
+	Lupinus_luteus_KC695666
+	Cicer_arietinum_EU835853
+	Trifolium_subterraneum_EU849487
+	Pisum_sativum_NC_014057
+	Lathyrus_sativus_NC_014063
+	Lotus_japonicus_AP002983
+	Millettia_pinnata_JN673818
+	Glycine_canescens_KC893635
+	Vigna_radiata_GQ893027
+	Phaseolus_vulgaris_NC_009259
+	Morus_indica_DQ226511
+	Fragaria_chiloensis_JN884816
+	Pyrus_pyrifolia_NC_015996
+	Prinsepia_utilis_KC571835
+	Prunus_kansuensis_KF990036
+	Pentactina_rupicola_JQ041763
+	Sarcopteryx_stipata_KT716503
+	Citrus_sinensis_DQ864733
+	Azadirachta_indica_KF986530
+	Theobroma_cacao_HQ336404
+	Gossypium_hirsutum_DQ345959
+	Carica_papaya_EU431223
+	Arabidopsis_thaliana_NC_000932
+	Pachycladon_cheesemanii_JQ806762
+	Arabis_alpina_HF934132
+	Brassica_napus_NC_016734
+	Hypseocharis_bilobata_KF240616
+	Pelargonium_alternans_KF240617
+	Monsonia_speciosa_HM125538
+	Erodium_carvifolium_HQ713469
+	California_macrophylla_JQ031013
+	Geranium_palmatum_HM125537
+	Viviania_marifolia_KF240615
+	Melianthus_villosus_NC_023256
+	Francoa_sonchifolia_JQ809470
+	Allosyncarpia_ternata_KC180806
+	Stockwellia_quadrifida_KC180807
+	Eucalyptus_regnans_KC180777
+	Angophora_costata_KC180805
+	Corymbia_eximia_KC180802
+	Oenothera_argillicola_EU262887
+	Vitis_vinifera_NC_007957
+	Liquidambar_formosana_NC_023092
+	Sedum_sarmentosum_NC_023085
+	Penthorum_chinense_JX436155
+	Silene_conica_NC_016729
+	Agrostemma_githago_KF527884
+	Fagopyrum_esculentum_subsp_ancestrale_EU254477
+	Trachelium_caeruleum_EU090187
+	Lactuca_sativa_AP007232
+	Praxelis_clematidea_KF922320
+	Ageratina_adenophora_JF826503
+	Guizotia_abyssinica_EU549769
+	Helianthus_annuus_NC_007977
+	Parthenium_argentatum_NC_013553
+	Jacobaea_vulgaris_HQ234669
+	Chrysanthemum_indicum_JN867592
+	Artemisia_frigida_JX293720
+	Quintinia_verdonii_KT716502
+	Pennantia_cunninghamii_KT716501
+	Anthriscus_cerefolium_GU456628
+	Daucus_carota_DQ898156
+	Aralia_undulata_KC456163
+	Panax_ginseng_AY582139
+	Schefflera_delavayi_KC456166
+	Kalopanax_septemlobus_KC456167
+	Metapanax_delavayi_KC456165
+	Eleutherococcus_senticosus_JN637765
+	Brassaiopsis_hainla_KC456164
+	Jasminum_nudiflorum_DQ673255
+	Olea_europaea_subsp_europaea_FN997650
+	Boea_hygrometrica_JN107811
+	Origanum_vulgare_subsp_vulgare_JX880022
+	Salvia_miltiorrhiza_JX312195
+	Tectona_grandis_HF567869
+	Ajuga_reptans_KF709391
+	Sesamum_indicum_JN637766
+	Andrographis_paniculata_KF150644
+	Pinguicula_ehlersiae_HG803178
+	Utricularia_gibba_KC997777
+	Coffea_arabica_EF044213
+	Catharanthus_roseus_KC561139
+	Asclepias_nivea_KF539844
+	Ipomoea_purpurea_EU118126
+	Nicotiana_tabacum_Z00044
+	Datura_stramonium_JN662489
+	Solanum_lycopersicum_DQ347959
+	Capsicum_annuum_JX270811
+	Ehretia_acuminata_KT716497
+	Arbutus_unedo_JQ067650
+	Vaccinium_macrocarpon_JQ248601
+	Camellia_sinensis_KC143082
+	Ardisia_polysticta_KC465962
+	Ginkgo_biloba_JN867578
+	Cycas_taitungensis_AP009339
+;
+end;
+
+begin trees;
+	tree tree1 = [&R] (((((((((((((((((((((((Pisum_sativum_NC_014057:0.014097308496174105,Lathyrus_sativus_NC_014063:0.023108920718458853)[&label=100]:0.014075270848032062,Trifolium_subterraneum_EU849487:0.021052950361010236)[&label=100]:0.0047337823630166365,Cicer_arietinum_EU835853:0.01602038747360801)[&label=100]:0.01765532446355994,Lotus_japonicus_AP002983:0.02931586996178573)[&label=100]:0.006184677025724561,(((Vigna_radiata_GQ893027:0.008973803929653218,Phaseolus_vulgaris_NC_009259:0.008639043290670473)[&label=100]:0.018574627560920154,Glycine_canescens_KC893635:0.008830538868231264)[&label=100]:0.014678964235323028,Millettia_pinnata_JN673818:0.026352656609764713)[&label=100]:0.012411198085094999)[&label=100]:0.003977679092065561,Lupinus_luteus_KC695666:0.02708619859560432)[&label=100]:0.025104623498371476,(((((Prinsepia_utilis_KC571835:0.011836258630862267,Prunus_kansuensis_KF990036:0.00698059014869043)[&label=83]:6.336416755246266E-4,Pentactina_rupicola_JQ041763:0.008914410563553826)[&label=44]:2.8723170135513953E-4,Pyrus_pyrifolia_NC_015996:0.0064777745409767)[&label=100]:0.0031385127107144972,Fragaria_chiloensis_JN884816:0.017066114285116257)[&label=100]:0.008581966390565493,Morus_indica_DQ226511:0.02637104619960215)[&label=100]:0.006129601737747098)[&label=42]:8.585305193024861E-4,(((((Castanea_mollissima_HQ336406:0.0013183984901351253,Castanopsis_echinocarpa_KJ001129:8.801971710273304E-4)[&label=99]:3.75657563234405E-4,Quercus_rubra_JX970937:0.0013914176627067287)[&label=98]:4.6989735523728093E-4,Trigonobalanus_doichangensis_KF990556:0.005709586950094797)[&label=100]:0.02823059484553636,Nothofagus_moorei_KT716499:0.022766763203020485)[&label=100]:0.005611655513420161,(Cucumis_sativus_NC_007144:0.037463146465039704,Corynocarpus_laevigata_HQ207704:0.010637162648377635)[&label=100]:0.011377409898681884)[&label=76]:7.487535893157538E-4)[&label=100]:0.0039018890904435888,(((((Manihot_esculenta_NC_010433:0.004978111065750218,Hevea_brasiliensis_HQ285842:0.004827859392939116)[&label=100]:0.0052597881396523605,Ricinus_communis_JF937588:0.011416326368420715)[&label=84]:5.515397413285439E-4,Jatropha_curcas_FJ695500:0.014810601253287176)[&label=100]:0.009215731571818375,Populus_alba_AP008956:0.0282271395356751)[&label=100]:0.010965504554551447,(Ceratopetalum_apetalum_KT716495:0.00790631998250288,Sloanea_australis_KT716504:0.007412275113315048)[&label=100]:0.010335288740121296)[&label=100]:0.0025514575079134405)[&label=100]:0.0017052980395601824,((((((((Erodium_carvifolium_HQ713469:0.024455744625130504,California_macrophylla_JQ031013:0.014106279715984354)[&label=100]:0.0026729445076763003,Geranium_palmatum_HM125537:0.03281501160879299)[&label=100]:0.012268631605981406,Monsonia_speciosa_HM125538:0.05773028007439604)[&label=100]:0.01639287326040803,Pelargonium_alternans_KF240617:0.05748187472695521)[&label=100]:0.013004482635422004,Hypseocharis_bilobata_KF240616:0.03606433403574058)[&label=100]:0.03357739405390203,((Melianthus_villosus_NC_023256:0.013199782921882147,Francoa_sonchifolia_JQ809470:0.005844884463384131)[&label=100]:0.006315714627291441,Viviania_marifolia_KF240615:0.06421378327566576)[&label=100]:0.005745280877298697)[&label=100]:0.001834858771497333,((((Angophora_costata_KC180805:6.628052485322666E-4,Corymbia_eximia_KC180802:7.002127251131973E-4)[&label=100]:0.0015454286466344558,Eucalyptus_regnans_KC180777:0.002987370896172181)[&label=100]:0.001056600343349312,(Allosyncarpia_ternata_KC180806:0.0031248303091311047,Stockwellia_quadrifida_KC180807:0.0033386913614520675)[&label=100]:0.0019647333889469543)[&label=100]:0.010414407013339705,Oenothera_argillicola_EU262887:0.04420706960634935)[&label=100]:0.011531883283616817)[&label=53]:5.123274257689547E-4,(((((Arabidopsis_thaliana_NC_000932:0.005109499708141452,Pachycladon_cheesemanii_JQ806762:0.0021669013759261224)[&label=100]:0.0023977122402136786,(Arabis_alpina_HF934132:0.0080321935592082,Brassica_napus_NC_016734:0.00761269928743924)[&label=100]:0.0016558452460697648)[&label=100]:0.03778614653067605,Carica_papaya_EU431223:0.011878968974451953)[&label=100]:0.00826874126518451,(Theobroma_cacao_HQ336404:0.0035836453132094825,Gossypium_hirsutum_DQ345959:0.010591734441705303)[&label=100]:0.013891906094715384)[&label=100]:0.002860235993905752,((Citrus_sinensis_DQ864733:0.02300742940457043,Azadirachta_indica_KF986530:0.013246275109852074)[&label=100]:0.005629502170554218,Sarcopteryx_stipata_KT716503:0.021817517534560293)[&label=100]:0.012288025508475409)[&label=100]:0.003948468117634135)[&label=100]:0.0011823998529449653)[&label=100]:0.004014885056850576,(((Sedum_sarmentosum_NC_023085:0.054671337524254265,Penthorum_chinense_JX436155:0.012456219768478577)[&label=100]:0.006083216446490125,Liquidambar_formosana_NC_023092:0.011125134592470304)[&label=100]:0.0028256497840442873,Vitis_vinifera_NC_007957:0.020559734093015397)[&label=85]:4.452929907937109E-4)[&label=99]:0.0012981972568016364,(((((((((((Kalopanax_septemlobus_KC456167:0.0013684156288453486,Metapanax_delavayi_KC456165:9.5011998730829E-4)[&label=80]:1.261322402869025E-4,(Eleutherococcus_senticosus_JN637765:0.0011307569556840702,Brassaiopsis_hainla_KC456164:0.0018289977505199229)[&label=73]:1.2404825811104803E-4)[&label=100]:4.6410168181590383E-4,Schefflera_delavayi_KC456166:0.00186753759815525)[&label=100]:7.49273723334859E-4,(Aralia_undulata_KC456163:0.002017744897818613,Panax_ginseng_AY582139:0.0025459937579651037)[&label=100]:0.001068767689518274)[&label=100]:0.005822520696771166,(Anthriscus_cerefolium_GU456628:0.006136575176296372,Daucus_carota_DQ898156:0.006806541357655876)[&label=100]:0.015498935946699155)[&label=100]:0.006161070454004075,Pennantia_cunninghamii_KT716501:0.008178393528477351)[&label=100]:0.0018405232437080088,Quintinia_verdonii_KT716502:0.009488976109257086)[&label=95]:5.55076489718892E-4,((((((Praxelis_clematidea_KF922320:0.006028271585034134,Ageratina_adenophora_JF826503:0.005771042593494119)[&label=90]:5.888350565108891E-4,Guizotia_abyssinica_EU549769:0.0034583175754206164)[&label=65]:1.0801720027764361E-4,(Helianthus_annuus_NC_007977:0.0036711484323561083,Parthenium_argentatum_NC_013553:0.0020447358868431187)[&label=100]:0.0012189881740983788)[&label=100]:0.003122536348747512,((Chrysanthemum_indicum_JN867592:0.0015015519181610648,Artemisia_frigida_JX293720:6.169651507261786E-4)[&label=100]:0.007703251043866488,Jacobaea_vulgaris_HQ234669:0.009320557577189276)[&label=79]:7.743655639521896E-4)[&label=98]:9.258906869766825E-4,Lactuca_sativa_AP007232:0.007124765620123541)[&label=100]:0.023697699211228357,Trachelium_caeruleum_EU090187:0.06554181483592442)[&label=100]:0.005114028274058546)[&label=100]:0.0032004074666068805,(((((((Origanum_vulgare_subsp_vulgare_JX880022:0.007258343424424246,Salvia_miltiorrhiza_JX312195:0.0064624264099350515)[&label=100]:0.012177584681754061,(Tectona_grandis_HF567869:0.005174137653488814,Ajuga_reptans_KF709391:0.012589838360227895)[&label=83]:8.734716912907059E-4)[&label=100]:0.004225152197470522,(((Pinguicula_ehlersiae_HG803178:0.011372254954572336,Utricularia_gibba_KC997777:0.038979859352334)[&label=100]:0.013645307488614034,Andrographis_paniculata_KF150644:0.03351931339820846)[&label=76]:0.001184625238389997,Sesamum_indicum_JN637766:0.007343058864625801)[&label=71]:4.2838441718001663E-4)[&label=100]:0.0014688284067962132,Boea_hygrometrica_JN107811:0.02529274947145843)[&label=100]:0.006078185055917035,(Jasminum_nudiflorum_DQ673255:0.04030286119434076,Olea_europaea_subsp_europaea_FN997650:0.0038461703965917693)[&label=100]:0.0046926557097896615)[&label=100]:0.007932697873317185,(((((Solanum_lycopersicum_DQ347959:0.007417479994569903,Capsicum_annuum_JX270811:0.005475630733708492)[&label=86]:2.5609986052141376E-4,Datura_stramonium_JN662489:0.005109674339919018)[&label=100]:0.001652109371009458,Nicotiana_tabacum_Z00044:0.002172768762850552)[&label=100]:0.011403364371064345,Ipomoea_purpurea_EU118126:0.04175026162791726)[&label=100]:0.005524197117506041,((Catharanthus_roseus_KC561139:0.01129544458010684,Asclepias_nivea_KF539844:0.029094939250854213)[&label=100]:0.00859063102832791,Coffea_arabica_EF044213:0.021653108765186807)[&label=100]:0.006781983790378698)[&label=38]:4.2292386807255E-4)[&label=49]:4.701538632329305E-4,Ehretia_acuminata_KT716497:0.01212858346467835)[&label=100]:0.00595001913183521)[&label=100]:0.002240253656540514,(((Arbutus_unedo_JQ067650:0.01741395226311704,Vaccinium_macrocarpon_JQ248601:0.04468482092745979)[&label=100]:0.019612138351532332,Camellia_sinensis_KC143082:0.011006018193986222)[&label=100]:0.001272830956896509,Ardisia_polysticta_KC465962:0.030208208607633485)[&label=100]:0.008815297917478038)[&label=100]:0.0058086020069505195,((Silene_conica_NC_016729:0.019599552435451723,Agrostemma_githago_KF527884:0.008739350527633222)[&label=100]:0.03409112306176523,Fagopyrum_esculentum_subsp_ancestrale_EU254477:0.04625371668245973)[&label=100]:0.012411763302280526)[&label=100]:0.002518472603173866)[&label=100]:0.010274938212293583,Buxus_microphylla_NC_009599:0.019674780716185142)[&label=95]:9.118288562240118E-4,(Trochodendron_aralioides_KC608753:0.003422465942874431,Tetracentron_sinense_NC_021425:0.003796149420549677)[&label=100]:0.009382088485644258)[&label=100]:0.0017323521969302147,((Platanus_occidentalis_NC_008335:0.01227451672410304,Orites_excelsus_KT716500:0.020249486343592304)[&label=100]:0.003276750901260117,Nelumbo_lutea_FJ754269:0.013975858104155192)[&label=100]:0.0015797428960531157)[&label=100]:0.0013005991534066341,((Megaleranthis_saniculifolia_FJ597983:0.009027353284194573,Ranunculus_macranthus_NC_008796:0.02537070018604451)[&label=100]:0.010576302238444746,(Nandina_domestica_DQ923117:0.010660344971489766,Berberis_bealei_NC_022457:0.028439078391535144)[&label=100]:0.007312453942491887)[&label=100]:0.01040034421289232)[&label=100]:0.008214143518221806,Ceratophyllum_demersum_EF614270:0.04004992300539703)[&label=44]:0.001078798633702971,(((((((((((((((((((((Aegilops_cylindrica_KF534489:8.140514055583192E-4,Triticum_monococcum_KC912690:6.885639806299693E-4)[&label=91]:2.9181384989246384E-4,Secale_cereale_KC912691:0.0012015321075760366)[&label=100]:0.0012452585384623016,Hordeum_vulgare_NC_008590:0.005836196052098952)[&label=100]:0.004081264594817807,(((Lolium_multiflorum_JX871942:0.0038952401425294825,Festuca_altissima_JX871939:0.001700008558656818)[&label=100]:0.0017723295984776732,Deschampsia_antarctica_KF887484:0.002091663959834761)[&label=100]:0.0033952775214367292,Agrostis_stolonifera_EF115543:0.004663566865114349)[&label=100]:0.0018045876079577916)[&label=100]:0.0017639705072447498,Brachypodium_distachyon_EU325680:0.010962202479445848)[&label=100]:0.006854708259832726,((((Acidosasa_purpurea_HQ337793:4.635055171325897E-4,Arundinaria_appalachiana_KC817462:5.796724037293866E-4)[&label=84]:3.9391721223802634E-5,(Indocalamus_longiauritus_HQ337795:2.699348806980695E-4,Phyllostachys_edulis_HQ337796:3.487068720857134E-4)[&label=99]:4.636638721915165E-4)[&label=91]:1.2606275852347637E-4,Ferrocalamus_rimosivaginus_HQ337794:8.511597298110629E-4)[&label=100]:0.0029236420647172634,(Dendrocalamus_latiflorus_FJ970916:0.001261247599983334,Bambusa_emeiensis_HQ337797:3.6804186434713504E-4)[&label=100]:0.0026324008682113986)[&label=100]:0.0012746576924712871)[&label=99]:9.388519287383268E-4,((Oryza_rufipogon_JN005832:0.0041432971058229795,Leersia_tisserantii_JN415112:0.005615085544247028)[&label=100]:0.0032981511257734186,Rhynchoryza_subulata_JN415114:0.0033200552667819183)[&label=100]:0.005554304034613017)[&label=99]:7.2928142301662E-4,((((Sorghum_bicolor_EF115542:0.0012641568620409271,Saccharum_hybrid_cultivar_NCo_310_NC_006084:8.619544167347559E-4)[&label=69]:3.785708821461842E-4,Coix_lacryma_jobi_FJ261955:0.0023082594696200998)[&label=100]:0.00489807087952604,(Panicum_virgatum_HQ822121:0.0035068234392064135,Setaria_italica_KF646538:0.003059699966569712)[&label=100]:0.0015952618159184029)[&label=100]:0.0027478995003536455,Phragmites_australis_KF730315:0.0037859619822467605)[&label=100]:0.005588929369874651)[&label=100]:0.0015865944934644327,Puelia_olyriformis_KC534841:0.004202619900593035)[&label=100]:0.00760573781019952,Pharus_lappulaceus_KC311467:0.008840819292957158)[&label=100]:0.00429567501666675,Anomochloa_marantoidea_GQ329703:0.022275617418832883)[&label=100]:0.06270717833908176,Typha_latifolia_GU195652:0.012915424383303703)[&label=100]:0.007605566577513656,((((Curcuma_roscoeana_KF601574:0.0023893225533415108,Zingiber_spectabile_JX088661:0.004124750025129159)[&label=100]:0.02481831824247538,Ravenala_madagascariensis_KF601568:0.020814702052625644)[&label=77]:0.0010269947156167358,Heliconia_collinsiana_JX088660:0.004979301956804849)[&label=44]:3.064217868678498E-4,Musa_textilis_KF601567:0.009355517025689014)[&label=100]:0.011389276192145636)[&label=98]:0.001270100322743828,Dasypogon_bromeliifolius_JX088665:0.022794878478034464)[&label=61]:3.939429064365174E-4,((((Cocos_nucifera_KF285453:0.0011141056474307243,Elaeis_guineensis_JF274081:0.002227240936614805)[&label=100]:0.0012057747055498336,Pseudophoenix_vinifera_JX088662:0.0032993666045064707)[&label=96]:4.244173412066843E-4,(Bismarckia_nobilis_JX088664:0.003365229187304808,Phoenix_dactylifera_GU811709:0.003256211334153103)[&label=100]:5.983388666426781E-4)[&label=100]:0.002464836555428729,Calamus_caryotoides_JX088663:0.006899880189048163)[&label=100]:0.011368808730052804)[&label=100]:0.0030433808510945404,((((Oncidium_hybrid_cultivar_GQ324949:0.002562956808195266,Erycina_pusilla_JF746994:0.013600642989641781)[&label=100]:0.007025281125448785,Cymbidium_aloifolium_KC876122:0.011192741453358968)[&label=92]:0.0019556759258488043,(Phalaenopsis_equestris_JF719062:0.012573174465040332,Corallorhiza_striata_var_vreelandii_JX087681:0.01899189592143183)[&label=30]:6.796656905429799E-4)[&label=58]:9.002656830048306E-4,Dendrobium_officinale_KC771275:0.004966583442587769)[&label=100]:0.03159978810545791)[&label=97]:0.0012179195887078442,((((Lilium_longiflorum_KC968977:0.0025951899816970547,Fritillaria_taipaiensis_NC_023247:0.004892397918539043)[&label=100]:0.018279753550144717,Smilax_china_HM536959:0.01785403941358643)[&label=100]:0.006860576470692631,Alstroemeria_aurea_KC968976:0.02906329274918923)[&label=59]:9.891239944253283E-4,Veratrum_patulum_KF437397:0.027875111778189132)[&label=100]:0.004900043520716824)[&label=86]:0.0010985964339219612,Dioscorea_elephantipes_EF380353:0.03433871345578565)[&label=99]:0.0025562990992760437,Petrosavia_stellaris_KF482381:0.026505508897241042)[&label=100]:0.004651573049473251,((((Wolffia_australiana_NC_015899:0.01948467235649437,Lemna_minor_DQ400350:0.00984305028659535)[&label=100]:0.007036177545369504,Spirodela_polyrhiza_JN160603:0.005393245461341789)[&label=100]:0.015895780909190943,Colocasia_esculenta_NC_016753:0.009693193449087839)[&label=100]:0.01714664703331656,(Elodea_canadensis_JQ310743:0.016324072787547883,Najas_flexilis_JX978472:0.09221805707452388)[&label=100]:0.022467218644983522)[&label=100]:0.005900574952952431)[&label=100]:0.006452813974753779,Acorus_americanus_NC_010093:0.032693514485778674)[&label=100]:0.007989682753505117)[&label=53]:6.521045206770992E-4,(((((Cinnamomum_oliveri_KT716496:0.01453101633057366,Wilkiea_huegeliana_KT716505:0.007993146056016143)[&label=100]:0.003450605453440614,Calycanthus_floridus_var_glaucus_NC_004993:0.017184925727078915)[&label=100]:0.0056267050311120115,((Liriodendron_tulipifera_NC_008326:0.004710424546638559,Magnolia_cathcartii_NC_023234:0.004653745267935577)[&label=100]:0.0030673704353176012,Eupomatia_laurina_KT716498:0.01173848205838851)[&label=100]:0.0037979389481830883)[&label=100]:0.0018054914886453943,(Piper_cenocladum_DQ887677:0.054783487262578895,Drimys_granadensis_DQ887676:0.015969985924004754)[&label=81]:0.0022911775021534353)[&label=94]:0.002134550035398558,Chloranthus_spicatus_NC_009598:0.02318709559664392)[&label=65]:8.54818267788493E-4)[&label=100]:0.007241367539253224,Illicium_oligandrum_NC_009600:0.024853318428487092)[&label=100]:0.004672989809560796,((Nymphaea_alba_AJ627251:0.007334047738346339,Nuphar_advena_DQ354691:0.004180253826060132)[&label=100]:0.013368986507928005,Trithuria_inconspicua_HE963749:0.09410436216082199)[&label=100]:0.01653583972615083)[&label=71]:0.0036569562796284205,Amborella_trichopoda_NC_005086:0.03515667808622122)[&label=100]:0.06741119121100635,(Ginkgo_biloba_JN867578:0.0505353191994517,Cycas_taitungensis_AP009339:0.04511151662895366)[&label=100]:0.1348223824220127);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=1000;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=16;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute="User selection";
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=14;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
